@@ -1,17 +1,10 @@
 {
-  "name": "nacimgoura.xyz",
-  "author": "Nacim",
-  "version": "1.0.0",
-  "description": "personal website in english",
-  "main": "gulpfile.js",
-  "dependencies": {},
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^3.0.3",
-    "gulp-cssnano": "^2.1.2",
-    "gulp-purifycss": "^0.2.0"
+  "name": "nacimgoura.github.io",
+  "author": {
+    "name": "Nacim Goura",
+    "email": "nacim.goura.dev@gmail.com",
+    "url": "nacimgoura.github.io"
   },
-  "scripts": {
-    "css": "gulp css"
-  }
+  "version": "1.0.1",
+  "description": "personal website in english ⚡"
 }

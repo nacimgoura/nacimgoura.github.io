@@ -1,2 +1,2 @@
-# index
-Personal website
+# Nacim Goura ⚡
+Personal website in english
