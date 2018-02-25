@@ -1,6 +1,6 @@
 {
   "name": "nacimgoura.github.io",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "personal website in english ⚡",
   "author": {
     "name": "Nacim Goura",
@@ -11,6 +11,7 @@
     "personal",
     "website",
     "template",
+    "curriculum vitae",
     "amp",
     "open-source",
     "french developer"
