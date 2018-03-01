@@ -8,8 +8,14 @@
 
 
 <url>
-  <loc>https://nacimgoura.github.io</loc>
-  <lastmod>2018-02-22T15:25:13+00:00</lastmod>
+  <loc>https://nacimgoura.github.io/</loc>
+  <lastmod>2018-03-01T14:21:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nacimgoura.github.io/public/doc/cv.pdf</loc>
+  <lastmod>2018-03-01T14:21:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
