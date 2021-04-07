@@ -206,7 +206,7 @@ EXPERIENCES
   font-style: italic;
 }
 .job .profession {
-  font-size: 1.7em;
+  font-size: 1.8em;
   font-weight: bold;
 }
 .job .description {
@@ -280,7 +280,6 @@ SKILLS
   display: inline-block;
   font-size: 1.2em;
   color: #a9a9a9;
-  float: left;
 }
 .legend:before {
   width: 3px;
