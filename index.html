@@ -51,20 +51,8 @@
     </head>
 
     <body>
-        <amp-analytics type="googleanalytics">
-            <script type="application/json">
-                {
-                    "vars": {
-                        "account": "UA-114661578-1"
-                    },
-                    "triggers": {
-                        "trackPageview": {
-                            "on": "visible",
-                            "request": "pageview"
-                        }
-                    }
-                }
-            </script>
+        <amp-analytics type="goatcounter">
+            <script data-goatcounter="https://nacimgoura.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
         </amp-analytics>
 
         <div class="container">
@@ -74,8 +62,9 @@
                         <!-- PHOTO (AVATAR) -->
                         <div id="photo">
                             <amp-img
-                                src="/img/portrait.png"
+                                src="public/img/portrait.png"
                                 alt="avatar"
+                                noloading
                             >
                             </amp-img>
                         </div>
